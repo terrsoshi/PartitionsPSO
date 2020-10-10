@@ -2,7 +2,7 @@
 Achieve maximum number of partitions in a given area using Particle Swarm Optimisation
 
 ## Running the algorithm
-Put all .py files in the same directory, and run main.py using a Python IDE.
+Put all .py files in the same directory, and run main.py using a Python IDE.  
 It is recommended to run this algorithm on Python IDEs that supports the integration of matplotlib such as Spyder.
 
 ## Problem Description
