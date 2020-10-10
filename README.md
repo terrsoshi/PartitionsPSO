@@ -1,5 +1,5 @@
 # PartitionsPSO
-Achieve maximum number of partitions in a given area using Particle Swarm Optimisation.
+Achieve maximum number of partitions in a given area using Particle Swarm Optimisation(PSO) algorithm.
 
 ## Running the algorithm
 - Put all .py files in the same directory, and run main.py using a Python IDE.  
